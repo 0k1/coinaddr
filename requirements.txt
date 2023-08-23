@@ -2,6 +2,5 @@ attrs>=19.2.0
 pycryptodome
 base58check>=1.0.1
 zope.interface>=4.4.3
-
-zope~=1.0
-setuptools~=52.0.0
+zope
+setuptools
